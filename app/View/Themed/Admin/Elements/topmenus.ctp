@@ -1,0 +1,1 @@
+<?php echo $this->requestAction("App/cmspageMenu/".$pos); ?>

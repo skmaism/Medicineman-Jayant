@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+
+   RewriteCond %{HTTP_HOST} !111.93.56.210$ [NC]
+   RewriteCond %{HTTP_HOST} ^(www\.)?([a-z0-9-]+).111.93.56.210 [NC]
+   RewriteRule (.*) %2/$1 [L]
+</IfModule>

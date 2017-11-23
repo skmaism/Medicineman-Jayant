@@ -1,0 +1,2645 @@
+/*-------------------------iphone Start------------------------------*/
+
+@media only screen and (max-width:1930px){
+	.home_content{width: 67%;}
+	.copyright{width: 37%;}
+	.home_bottom_right_in{width: 32%;}
+	.menu_in{margin-left: 25px;}
+	
+	.copyright{padding-top:15px;}
+	.email_in{padding-top: 14px;}
+
+	ul.social{width:30%;}
+}
+
+@media only screen and (max-width:1845px){
+	.home_content{width: 73%;}
+	
+	
+}
+
+@media only screen and (max-width:1785px){
+	.home_content{width: 75%;}
+	
+	
+	.copyright{padding-top:12px;}
+	.email_in{padding-top:12px;}
+	
+}
+
+
+@media only screen and (max-width:1670px){
+	.home_content{width: 76%;}
+	
+	.copyright{padding-top:12px;}
+	.email_in{padding-top:10px;}
+
+}
+
+
+@media only screen and (max-width:1614px){
+	.home_content{width: 81%;}
+	
+	.logo_right{margin:0 1%; /*width:auto; */}
+
+	ul.social{width:36%;}
+	
+	.email_in{padding-top:8px;}
+	.copyright{padding-top:8px;}
+}
+
+
+
+@media only screen and (max-width:1575px){
+	.home_content{width: 80%;}
+	
+	.logo_right{margin:0 1%;/* width:auto;*/}
+	
+	.email_in{padding-top:8px;}
+	.copyright{padding-top:8px;}
+
+	ul.social{width:38%;}
+
+}
+
+
+@media only screen and (max-width:1470px){
+	.home_content{width: 86%;}
+	
+	.logo_right{margin:0 1%; /*width:auto;*/}
+	.email_in{padding-top:8px;}
+	.copyright{padding-top:8px;}
+
+	ul.social{width: 42%;}
+
+}
+
+
+@media only screen and (max-width:1440px){
+	.home_content{width: 90%;}
+	.logo_right{margin:0; /*width:auto;*/}
+	.emailid_1{font-size:20px;}
+	ul.social{width: 42%;}
+	
+	.email_in{padding-top:8px;}
+	.copyright{padding-top:8px;}
+
+}	
+
+
+@media only screen and (max-width:1366px){
+	.home_content{width: 91%; padding-top:17px; }
+	.header{padding-top:45px;}
+	.emailid_1{font-size:18px;}
+	.ul.social{width: 42%;}
+	
+	ul.social {width:42%;}
+	.emailid_1{padding-top:10px;}
+	
+	/*.logo_right{margin:0 1%;}*/
+	.email_in{padding-top:8px;}
+	.copyright{padding-top:8px;}
+}
+
+
+
+@media only screen and (max-width:1340px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:50%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:67px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%;}
+	.home_bottom_left, .home_bottom_right{width:33%;}
+	.book_appointment{font-size:32px; width: 31%;}
+	.home_bottom_right{height:auto; padding-bottom:16px;}
+	.home_bottom_left{height: auto; padding-bottom:17px;}
+	
+	
+	ul.social {width:39%;}
+	.emailid_1{padding-top:10px;}
+	.register_login{width:82%;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+	.login_box{width:76%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70.5%;}
+	.btnDiv{width:75%;}
+	
+	.logo_right{/*width:auto;*/}
+	.menu_in{padding:20px 0 0 18px; float:left; margin:0;}
+	.home_bottom_right_in{width: 35%;}
+	.copyright {width: 39%; padding-top:10px;}
+	.email_in{padding-top:10px;}
+	
+	.contct_box{width:80%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.profile_dtl{width:75%;}
+	
+	.pataint_dashboard_left_zone{width:77%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+		
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:58px;}
+	#calendar table th.fc-day-header{font-size:23px;}
+	.fc button{padding:0 0.6em !important;}
+}	
+
+
+	
+@media only screen and (max-width:1300px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:50%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:76px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%;}
+	.home_bottom_left, .home_bottom_right{width:33%;}
+	.book_appointment{font-size:32px; width: 31%;}
+	.home_bottom_right{height:auto; padding-bottom:16px;}
+	.home_bottom_left{height: auto; padding-bottom:17px;}
+	
+	
+	
+	ul.social {width:40%;}
+
+	.emailid_1{padding-top:10px;}
+	.register_login{width:82%;}
+	
+	.logo_in{width:20%;}
+	.header_in, .container{margin:0 2%; width:96%;}
+	.login_box{width:75%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:69.5%;}
+	
+	.btnDiv{width:73%;}
+	
+	.logo_right{/*width:auto;*/}
+	.menu_in{padding:20px 0 0 18px; float:left; margin:0;}
+	.email_in{ padding-top:8px;}
+
+	.copyright{padding-top: 11px;}
+	
+	.register_box {width:83%;}
+	
+	.contct_box{width:85%;}
+	.contct_box input[type="text"], .contct_box textarea{width:70%;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:78%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_dashboard_left_zone{width:77%;}
+	
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+
+
+}
+
+
+@media only screen and (max-width:1270px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:50%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:67px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%;}
+	.home_bottom_left, .home_bottom_right{width:33%;}
+	.book_appointment{font-size:32px; width: 31%;}
+	.home_bottom_right{height:auto; padding-bottom:16px;}
+	.home_bottom_left{height: auto; padding-bottom:17px;}
+	
+	
+	ul.social {width:42%;}
+	.emailid_1{padding-top:10px;}
+	.register_login{width:82%;}
+	
+	.logo_right{margin:0; /*width:auto;*/}
+	.menu_in{padding:20px 0 0 18px; float:left; margin:0;}
+	.home_bottom_right_in{width: 39%;}
+	.copyright {width: 42%; padding-top:11px;}
+	.email_in{ padding-top:11px;}
+
+	.logo_in{width: 23%;}
+	.header_in, .container{margin:0 2%; width:96%;}
+	.login_box{width:75%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68.5%;}
+	
+	.btnDiv{width: 73%;}
+	
+	.register_box {width:85%;}
+	
+	.contct_box{width:85%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.profile{width:87%;}
+	.profile_dtl{margin-left:32px; width:76%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_dashboard_left_zone{width:81%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+}
+
+
+
+@media only screen and (max-width:1214px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:50%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:58px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%;}
+	.home_bottom_left, .home_bottom_right{width:35.5%;}
+	.book_appointment{font-size:26px; width: 26%;}
+	.book_appointment a{padding:16px 0 16px 0;}
+	.home_bottom_right{height:auto; padding-bottom:16px;}
+	.home_bottom_left{height: auto; padding-bottom:17px;}
+	
+	
+	ul.social {width:42%;}
+	.emailid_1{padding-top:10px;}
+
+	.register_login{width:82%;}
+	.bottom_menu1{top: 77px;}
+	
+	
+	.logo_right{/*width:623px;*/}
+	.login_register{font-size:17px;/* width:32.5%;*/ padding-top:15px; margin-bottom:0; text-align:center;}
+	
+	.home_bottom_right_in{width: 39%;}
+	.copyright {width: 42%;  padding-top:11px;}
+	.email_in{ padding-top:11px;}
+	
+	.appointment_book{margin-top:0;}
+	.menu_in{padding:13px 0 0 15px; float:left; margin:0;}
+	
+	.logo_in{width:21%;}
+	.header_in, .container{margin:0 2%; width:96%;}
+
+	.login_box{width:80%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:69%;}
+	
+	
+	.register_box {width:93%;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:72%;}
+	
+	.profile{width:87%;}
+	.profile_dtl{margin-left:32px; width:76%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:30px; width:61%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+}
+
+
+@media only screen and (max-width:1180px){
+	ul.social {width:44%;}
+	.emailid_1{padding-top:10px; width: 56%;}
+	
+	.copyright {width: 46%; padding-top:11px;}
+	.email_in{font-size:18px; padding-top:11px;}
+	.home_bottom_right_in{width:42%;}
+	
+	.logo_right{/*width:630px;*/}
+	.login_register{margin-right:5px; /*width:49%;*/ padding-top:17px;}
+	.appointment_book{margin-top:0;}
+	.menu_in{padding-top:12px;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+
+	.login_box{width:90%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	.logo_in {width:22%;}
+	.btnDiv {width: 75%;}
+	
+	.bottom_menu1{top: 77px;}
+	
+	.register_box {width: 100%;}
+	
+	.profile{width:87%;}
+	.profile_dtl{margin-left:32px; width:76%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:72%;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:30px; width:75%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:53%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+}
+
+@media only screen and (max-width:1150px){
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:71%;}
+	
+	.profile{width: 87%;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:30px; width:64%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:58px;}
+	#calendar table th.fc-day-header{font-size:23px;}
+	.fc button{padding:0 0.6em !important;}
+}
+
+@media only screen and (max-width:1120px){
+	.btnDiv {width: 74%;}
+	ul.social {width:46%;}
+	.emailid_1{padding-top:10px; width: 54%;}
+	
+	.bottom_menu1{top: 76px;}
+	
+	.register_box {width: 103%;}
+	
+	.profile{width: 90%;}
+	.profile_dtl{margin-left:32px; width:75%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:75%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:35px; width:67%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:27%;}
+	
+	.pataint_profile_dtl{margin-left:35px; width:69%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+}
+
+
+@media only screen and (max-width:1060px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:65%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:66px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:24px; width:55%;}
+	ul.social {padding-right:10px; width:20%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.logo_right{margin:6px 1% 0 1%; /*width: 65%;*/}
+	.login_register{font-size:17px; /*width:45%;*/ padding-top:15px; margin-bottom:0; text-align:left; margin-right:5px;}
+	.menu_in{padding:8px 0 0 0; float:right; margin:0 0 0 6px;}
+	.appointment_book {font-size:29px; /*width:55%;*/ margin-top:0;}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width: 48%; padding-top:11px; font-size:17px;}
+	.email_in{font-size:18px; padding-top:9px;}
+	.home_bottom_right_in{width:42%;}
+	.bottom_menu1{top:83px;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+	.login_box{width:90%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68%;}
+	
+	.logo_in {width:26%;}
+	.btnDiv {width: 72%;}
+	
+	.register_box {width: 114%;}
+	
+	.profile{width: 92%;}
+	.profile_dtl{margin-left:32px; width:75%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.dashboard_left_zone{width:90%;}
+	.profile_dtl{width:75%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:35px; width:69%; float:left;}
+	.pataint_profile_dtl label{width:252px; font-size: 15px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:30%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+}
+
+@media only screen and (max-width:1040px){
+	.bottom_menu1{top:79px;}
+	.profile_dtl{margin-left:32px; width:75%;}
+	.profile_dtl input[type="text"]{width:53%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.copyright {width:50%; padding-top:11px; font-size:17px;}
+	.email_in{font-size:17px; padding-top:10px;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:35px; width:70%; float:left}
+	.pataint_profile_dtl label{width:255px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:59%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:30%;}
+	
+	
+	}
+	
+
+
+@media only screen and (max-width:1024px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:65%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:63px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:24px; width:55%;}
+	ul.social {padding-right:10px; width:23%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.logo_right{margin:8px 1% 0 1%;/* width: 55%;*/}
+	.login_register{font-size:15px;/* width:32.5%;*/ padding-top:15px; margin-bottom:0; text-align:left; margin-right:5px;}
+	.menu_in{padding:12px 0 0 0; float:right; margin:0;}
+	.appointment_book {font-size:29px; /*width:57%;*/ margin-top:0;}
+	.appointment_book a{padding: 5px 10px;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+	.login_box{width:90%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68%;}
+	
+	.logo_in {width:26%;}
+	
+	.copyright {width:50%; padding-top:11px; font-size:17px;}
+	.email_in{font-size:17px; padding-top:9px;}
+	.btnDiv {width:75%;}
+	
+	.register_box {width: 110%;}
+	
+	.profile{width: 92%;}
+	.profile_dtl{margin-left:32px; width:75%;}
+	.profile_dtl input[type="text"]{width:55%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:67%;}
+	
+	.dashboard_left_zone{width:91%;}
+	.profile_dtl{width:74%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:65%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:87px; width:70%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:73%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:30%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 76%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:56%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:58px;}
+	#calendar table th.fc-day-header{font-size:23px;}
+	.fc button{padding:0 0.6em !important;}
+
+	
+	
+}
+
+@media only screen and (max-width:1020px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 auto; width:65%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:50px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:24px; width:55%; padding-top:5px;}
+	ul.social {padding-right:10px; width:22%;}
+	.register_login{width:82%;}
+	
+	.logo_right{margin:6px 1% 0 1%; /*width:64%;*/}
+	.login_register{font-size:15px; /*width:43%;*/ padding-top:15px; margin-bottom:0; text-align:left; margin-right:5px;}
+	.menu_in{padding:10px 0 0 0; float:right; margin:0 0 0 6px;}
+	.appointment_book {font-size:27px; /*width:56%;*/ margin-top:0;}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:50%; padding-top:11px; font-size:17px;}
+	.email_in{font-size:17px; padding-top:10px;}
+	.home_bottom_right_in{width:43%;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+
+	.login_box{width:100%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70.5%;}
+	
+	.logo_in {width:26%;}
+	.btnDiv {width: 74%;}
+	
+	.register_box {width:109%;}
+	
+	.profile{width: 92%;}
+	.profile_dtl{margin-left:32px; width:75%;}
+	.profile_dtl input[type="text"]{width:52%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:67%;}
+	
+	.dashboard_left_zone{width:70%;}
+	.profile_dtl{width:73%}
+	
+	.dashboard_left_zone{width:97%;}
+	.profile_dtl{width:73%}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl{margin-left:32px; width:73%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:63%;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:80px; width:70%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:73%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:30%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 76%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:56%;}
+	
+}
+
+
+
+@media only screen and (max-width:980px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:80%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:49px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:10px;}
+	ul.social {padding-right:10px; width:19%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.logo_right{margin:6px 1% 0 1%;/* width:66%;*/}
+	.login_register{font-size:15px; /*width:43%;*/ padding-top:15px; margin-bottom:0; text-align:left; margin-right:5px;}
+	.menu_in{padding:10px 0 0 0; float:right; margin:0 0 0 6px;}
+	.appointment_book {font-size:27px; /*width:56%;*/ margin-top:0;}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:50%; font-size:17px; padding-top:11px;}
+	.email_in{padding-top:10px; font-size:17px;}
+	.home_bottom_right_in{width:45%; font-size:20px;}
+	.bottom_menu1 {top:78px;}
+	
+	.header_in, .container{margin:0 2%; width:96%;}
+
+	.login_box{width:100%;}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68%;}
+	
+	.logo_in {width:26%;}
+	.btnDiv {width: 73%;}
+	
+	.register_box {width: 123%;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:72%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:52%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:64%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:73%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width:30%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 76%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:56%;}
+}
+
+
+
+@media only screen and (max-width:940px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:80%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:35px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:48px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:23px; width:55%; padding-top:10px;}
+	ul.social {padding-right:10px; width:22%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.logo_right{margin:5px 1% 0 1%; /*width:66%;*/}
+	.header_in, .container{margin:0 2%; width:96%;}
+
+	.login_box{width:100%;}
+	.login_box .user_passbox input, .login_box .user_passbox input[type="password"]{width:68%;}
+	
+	.btnDiv {width: 72%;}
+	.logo_in {width:26%;}
+	.login_register{font-size:15px; /*width:46%;*/ padding-top:15px; margin-bottom:0; text-align:left; margin-right:5px;}
+	.menu_in{padding:8px 0 0 7px; float:right; margin:0;}
+	.appointment_book {font-size:25px;/* width:54%;*/ margin-top:0;}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:50%; font-size:16px; padding-top:8px;}
+	.email_in{font-size:17px; width:49%; padding-top:8px;}
+	.home_bottom_right_in{width:45%;}
+	.bottom_menu1 {top:75px;}
+
+	
+	.register_box {width:113%;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:70%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:51%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:100%;}
+	.contct_box input[type="text"], .contct_box textarea{width:64%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:73%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 76%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:54%;}
+	
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+}
+
+
+@media only screen and (max-width:900px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:80%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:42px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:10px;}
+	ul.social {padding-right:10px; width:22%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.top_header_in{padding: 13px 0;}
+	.logo_in {width:31%;}
+	.logo_right{margin: 0; /*width: 44%;*/}
+	.login_register{font-size:15px; /*width:100%;*/ padding-top:15px; margin-bottom:5px; text-align:right;}
+	.menu_in{padding:5px 0 0 0; float:right; margin:0 0 0 5px;}
+	.appointment_book {font-size:24px; /*width:86%;*/}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:52%; font-size:15px; padding-top:7px;}
+	.email_in{font-size:16px; width:50%; padding-top:7px;}
+	.home_bottom_right_in{width:45%;}
+	
+	.container{margin:0 2%; width:96%;}
+	.left_zone{width:100%;}
+	
+	.bottom_menu1{top:99px;}
+	
+	
+	.user_passbox{padding: 20px 4%; width:92%;}
+	
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:74%;}
+	
+	.register_box{width:78%;}
+	.login_register a:last-child{margin-right:0}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:76.5%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:53%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:77%;}
+	.contct_box input[type="text"], .contct_box textarea{width:71%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:72%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:53%;}
+
+	.login_box{width:64%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:55px;}
+	#calendar table th.fc-day-header{font-size:23px;}
+	.fc button{padding:0 0.6em !important;}
+
+}
+
+@media only screen and (max-width:880px){
+	.contct_box{width:77%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:76%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:50%;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:71%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.profile_dtl label{text-align:right; width:270px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:52%;}
+
+	.login_box{width:64%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+	}
+
+@media only screen and (max-width:850px){
+	.contct_box{width:77%;}
+	.contct_box input[type="text"], .contct_box textarea{width:68%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:76%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:70%;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:70%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.profile_dtl label{text-align:left; width:148px; font-size: 13px;}
+	div#flight_booking_inner div.selectLeft{width:25%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:70%;}
+
+	.login_box{width:65%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:69%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	}
+
+
+@media only screen and (max-width:800px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:42px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:10px;}
+	ul.social {padding-right:10px; width:22%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.top_header_in{padding: 13px 0;}
+	.logo_right{margin: 0; /*width: 48%;*/}
+	
+	.logo_in {width:31%;}
+	.login_register{font-size:15px; /*width:100%;*/ padding-top:13px; margin-bottom:5px; text-align:right;}
+	.menu_in{padding:5px 0 0 0; float:right; margin:0;}
+	.appointment_book {font-size:26px; /*width:83%;*/}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:52%; font-size:15px; padding-top:7px;}
+	.email_in{font-size:16px; width:50%; padding-top:7px;}
+	.home_bottom_right_in{width:46%;}
+	
+	.container{margin:0 2%; width:96%;}
+	.left_zone{width:100%;}
+	
+	.bottom_menu1{top:98px;}
+	.login_register a:last-child{margin-right:0}
+
+	.login_box{width:73%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	
+	.user_passbox{padding: 20px 4%; width:92%;}
+	
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:74%;}
+	
+	.register_box{width:83%;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:75%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:67%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:80%;}
+	.contct_box input[type="text"], .contct_box textarea{width:69%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:69%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:69%;}
+
+}
+
+@media only screen and (max-width:780px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:37px; margin:26px 0;}
+	.home_content p{line-height: 29px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:9px;}
+	ul.social {padding-right:10px; width:25%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	
+	.top_header_in{padding: 13px 0;}
+	.logo_right{margin: 0 2%;/* width: 48%;*/}
+	.logo_in {width:35%;}
+	.login_register{font-size:15px; /*width:100%;*/ padding-top:15px; margin-bottom:5px; text-align:right;}
+	.menu_in{padding:5px 0 0 0; float:right; margin:0;}
+	.appointment_book {font-size:26px; /*width:83%;*/}
+	.appointment_book a{padding: 5px 10px;}
+	.copyright {width:53%; font-size:15px; padding-top:8px;}
+	.home_bottom_right_in{width:47%;}
+	.email_in{font-size:16px; width:50%; padding-top:7px;}
+	.bottom_menu1{top:93px;}
+	ul.bottonMenu{max-width:96%;}
+	
+	.container{margin:0 2%; width:96%;}
+	.login_register a:last-child{margin-right:0}
+	.left_zone{width:100%;}
+	
+	
+	.user_passbox{padding: 20px 4%; width:92%;}
+	
+	.login_box .full label.hidden{display:none;}
+	.btnDiv{width:100%;}
+	
+	.register_box{width:88%;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:76%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:67%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:72%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:10px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:67%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	ul.bottonMenu li{width: 43%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:27%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:67%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:74%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:56px;}
+	#calendar table th.fc-day-header{font-size:26px;}
+	.fc button{padding:0 0.6em !important;}
+}
+
+@media only screen and (max-width:768px){
+	.contct_box input[type="text"], .contct_box textarea{width:70%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:19px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:67%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	.profile_dtl label{text-align:left; width:148px; font-size: 13px;}
+	div#flight_booking_inner div.selectLeft{width:27%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width: 66.5%;}
+
+	.login_box{width:73%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+	
+	}
+		
+@media only screen and (max-width:767px){
+	.body_in{padding-bottom:130px;}
+	
+	.right_zone{top: -190px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.login_register a:last-child{margin-right:0}
+	.appointment_book a{padding: 5px 10px;}
+	.menu_in{margin-top:0; margin-left: 5px;}
+	.container{margin:0 2%; width:96%;}
+	
+	h1{/*text-align:left;*/ margin-bottom:13px; font-size:45px;}
+	h3{font-size:30px; margin-top:25px;}
+	.copyright{width:100%; text-align:center; margin-bottom:10px; font-size:17px;}
+	.copyright a{margin: 0;}
+	.email_in{width: 44%; padding-top: 12px; text-align:left;}
+	.home_bottom_right_in{width:100%;}
+	ul.social_in{width:172px;}
+	ul.bottonMenu{margin:0;}
+	
+	
+	
+	.user_btn a{width:100%; margin-bottom:3px;}
+	.user_passbox{padding: 20px 4%; width:92%;}
+	
+	
+	
+	.register_box{width:100%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	ul.bottonMenu li{float:none; width:100%;}
+	ul.bottonMenu li a{line-height: 19px;}
+	
+		
+	}
+
+@media only screen and (max-width:755px){
+	.pataint_profile_dtl {margin-left: 19px; width:75%;}
+	.pataint_profile_dtl input[type="text"] {width: 66%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:27%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width: 66.5%;}
+
+	.login_box{width:77%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:74%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:55px;}
+	#calendar table th.fc-day-header{font-size:21px;}
+	.fc button{padding:0 0.6em !important;}
+
+	}
+
+
+@media only screen and (max-width:720px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:37px; margin:20px 0;}
+	.home_content p{line-height: 27px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:5px;}
+	ul.social {padding-right:10px; width: 31%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+
+		
+	.logo_in{margin:0; width:40%; text-align:center;}
+	.logo_right{float:right; /*width:88%*/; margin:0.5% 2% 0 0;}
+	.login_register{font-size:15px; /*width:43%;*/ padding-top:24px; text-align:right; margin-bottom:0; text-align:left; margin-right:5px;}
+	.copyright{font-size:17px;}
+	.home_bottom_right_in .email_in{font-size:17px; width:52%; padding-top: 7px;}
+	.menu_in{float:right; padding-top:13px;}
+	.appointment_book{font-size:26px; margin-top:0; /*width:58%;*/}
+	.bottom_menu1{top:137px;}
+	ul.bottonMenu{max-width:96%;}
+	
+	h1{line-height:40px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 23px; padding: 12px 0;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:75%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:63.5%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+		
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.appointment_new{float:right; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.pataint_profile_dtl{margin-left:10px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:66%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:33%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl input[type="text"]{width: 65%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:73%;}
+}
+
+@media only screen and (max-width:710px){
+	.pataint_profile_dtl input[type="text"]{width:65%;}
+
+	.login_box{width:77%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:68%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:33%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+}
+
+@media only screen and (max-width:695px){
+	.pataint_profile_dtl input[type="text"]{width:65%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:33%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 75%;}
+	
+	
+}
+
+
+@media only screen and (max-width:682px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 40px;}
+
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:34px; margin:20px 0;}
+	.home_content p{line-height: 27px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:24px; width:55%; padding-top:7px;}
+	ul.social {padding-right:10px; width: 31%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+
+	
+	.logo_in{margin:0; width:43%;}
+	.logo_right{float:right; /*width:525px;*/ margin:2% 2% 0 0;}
+	.login_register{font-size:15px; /*width:41%;*/ padding-top:13px; text-align:right; margin-bottom:0; text-align:left; margin-right:5px;}
+	.copyright{font-size:17px;}
+	.home_bottom_right_in .email_in{font-size:17px; width:52%; padding-top: 7px;}
+	.menu_in{float:right; padding-top:8px; margin-left:5px;}
+	.appointment_book{font-size:23px; margin-top:0; /*width:55%;*/ margin-left:10px;}
+	.bottom_menu1{top:141px;}
+	ul.bottonMenu{max-width:96%;}
+	
+	h1{line-height:40px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 23px; padding: 12px 0;}
+	.logo_right{float:right; /*width:84%;*/ margin:2% 2% 0 0;}
+
+	.login_box{width:87%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	.register_box label{text-align:left; width:50%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:24%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:47.5%;}
+	div#flight_booking_inner ul li div.datebox{width:16%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:70%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.custom-radio label{width:13%;}
+	div#flight_booking_inner ul li div.selectLeft1{width: 49.5%;}
+	div#flight_booking_inner ul li div.selectLeft{width:20%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:97%;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:75%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:61%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.pataint_profile_dtl{margin-left:10px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size: 13px;}
+	.pataint_profile_dtl input[type="text"]{width:63%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width: auto;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{ width:62%;}
+	.appointment_new{float:right; width: 254px; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:33%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+	
+	.dashboard_left_zone .profile_dtl{width: 74%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:76%;}
+
+	.inline_labels label{width:49%;}
+	#flight_booking_inner .select_style{min-width:100%;}
+		
+}
+
+@media only screen and (max-width:640px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 38px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:47%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 42px 0; width:96%;}
+	.home_content h1{font-size:30px; margin:10px 0;}
+	.home_content p{line-height: 26px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:22px; width:55%; padding-top:5px;}
+	ul.social {padding-right:10px; width: 31%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:32px; width: 100%;}
+	ul.bottonMenu li a{font-size:25px;}
+	
+
+	.login_box{width:94%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	
+	.logo_in{margin:0; width:43%; text-align:center;}
+	.logo_right{float:right; /*width:81%;*/ margin:2% 2% 0 0;}
+	.login_register{font-size:15px; width:auto; padding-top:12px; text-align:right; margin-bottom:0; text-align:left; margin-right:5px;}
+	.copyright{font-size:17px;}
+	.home_bottom_right_in .email_in{font-size:17px; width:52%; padding-top: 7px;}
+	.menu_in{float:right; padding-top:6px; margin-left:6px;}
+	.appointment_book{margin-top:0; /*width:54%;*/ font-size:21px; margin-left:6px;}
+	.bottom_menu1{top:131px;}
+	ul.bottonMenu{max-width:96%;}
+	
+	h1{line-height:40px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 23px; padding: 12px 0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:20%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:70%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:20px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:74%; margin-left:25px;}
+	.profile_dtl input[type="text"]{width:60%;}
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.pataint_profile_dtl{margin-left:10px; width:76%;}
+	.pataint_profile_dtl label{width:150px; font-size:13px;}
+	.pataint_profile_dtl input[type="text"]{width:61.5%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width:auto;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{/*width:55%;*/ width:61%}
+	.dashboard_left_zone .profile_dtl{width: 74%;}
+	.appointment_new{float:right; width: 254px; margin:0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:16px;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width:100%;}
+	
+
+}
+
+@media only screen and (max-width:620px){
+	.pataint_profile_dtl input[type="text"] {width:60.5%;}
+	
+	.profile_dtl{width:75%;}
+	.profile_dtl input[type="text"] {width: 57.5%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:13px;}
+	
+	.dashboard_left_zone .profile_dtl input[type="text"]{ width: 60%;}
+}
+
+@media only screen and (max-width:600px){
+	.pataint_profile_dtl input[type="text"] {width:58%;}
+
+	.profile_dtl{width:75%;}
+
+	.login_box{width:94%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:91.5%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:13px;}
+	
+
+	.dashboard_left_zone .profile_dtl input[type="text"]{ width:57.5%;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:73%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:40px;}
+	#calendar table th.fc-day-header{font-size:21px;}
+	.fc button{padding:0 0.6em !important;}
+}
+
+@media only screen and (max-width:560px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 35px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0; width:96%;}
+	.home_content h1{font-size:34px; margin:10px 0;}
+	.home_content p{line-height: 24px; font-size: 16px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:19px; width:55%; padding-top:5px;}
+	ul.social {padding-right:10px;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:25px;}
+	ul.bottonMenu{max-width:96%;}
+	
+	.logo_in{margin:0; width:47%; text-align:center;}
+	.logo_right{float:right; /*width:84%;*/ margin:2% 2% 0 0;}
+	.login_register{font-size:15px; /*width:39%;*/ padding-top:16px; text-align:right; margin-bottom:0; text-align:left; margin-right:5px;}
+	.copyright{font-size:17px;}
+	.home_bottom_right_in .email_in{font-size:17px; width:52%; padding-top: 7px;}
+	.menu_in{float:right; margin-left:5px;}
+	.appointment_book{font-size:20px; margin-top:0; /*width:280px; */margin-left:10px;}
+	.bottom_menu1{top:134px;}
+
+	.login_box{width:97%}
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:70%;}
+	
+	h1{line-height:40px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 23px; padding: 12px 0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:20%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:20px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	.profile_dtl {width:75%; margin-left:25px;}
+	.profile_dtl .hidden{display:block;}
+	.profile_dtl input[type="text"]{width:54%;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 93%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:13px;}
+	
+	
+	.pataint_profile_dtl{margin-left:0; width:100%;}
+	.pataint_profile_dtl label{width:150px; font-size:13px;}
+	.pataint_profile_dtl input[type="text"]{width:65%;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:69%;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:20px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:65%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:73%;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width:100%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+
+
+}
+	
+	
+@media only screen and (max-width:540px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size:35px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0; width:96%;}
+	.home_content h1{font-size:29px; margin:10px 0;}
+	.home_content p{line-height: 24px; font-size: 15px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:18px; width:55%; padding-top:5px;}
+	ul.social {padding-right:10px;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:25px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0; width:52%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%; /*width:60%;*/ float:right; width:300px;}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:9px;}
+	.top_header_in{padding: 15px 0 10px 0; width:100%;}
+	.appointment_book {font-size:22px; /*width: 81%; */margin-top:0;}
+	p {font-size: 16px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size:15px;}
+	.home_bottom_right_in .email_in {font-size:17px; width: 51%;}
+	ul.social_in {float: right; width: 172px;}
+	.bottom_menu1{top:161px;}
+	ul.bottonMenu {max-width: 94%;}
+	
+	h1{line-height:40px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 23px; padding: 12px 0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:20%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:18px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+		
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.pataint_profile_dtl label{width:150px; font-size:13px;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:64%;}
+	
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	.pataint_profile_dtl .floatL{float:none;}
+		
+	.profile_dtl input[type="button"]{margin:15px 0;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:67%;}
+	.left_zone{width:100%; margin-top:17px; padding-bottom:0;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:20px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:63%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left; width:148px;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 93%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:13px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.login_box .full label.hidden{display:block;}
+	.btnDiv{width:71%;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width:100%;}
+
+	
+}
+
+@media only screen and (max-width:500px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0; width:96%;}
+	.home_content h1{font-size:29px; margin:10px 0;}
+	.home_content p{line-height: 24px; font-size: 15px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size: 12px; width:55%;}
+	ul.social {padding-right:10px;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:24px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0; width:51%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%;/* width:65%;*/ float:right;}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size:22px; /*width: 77%;*/ margin-top:0;}
+	p {font-size: 16px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size:15px;}
+	.home_bottom_right_in .email_in {font-size:17px; width: 51%;}
+	ul.social_in {float: right; width: 172px;}
+	.bottom_menu1{top:155px;}
+	.user_btn a.btn1, .user_btn a.btn2{font-size: 21px; padding: 11px 0;}
+	h1{line-height:40px;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:18px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label{width:150px;}
+	.pataint_profile_dtl label{width:150px; font-size:13px;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:61%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:block;}
+	
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:90%;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:20px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:15px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{/*width:97%;*/ width:61%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:92%;}
+	.upload_photo{width: 20%; margin-bottom:13px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:13px;}
+
+	.login_box .full label.hidden{display:none;}
+	.btnDiv{width:100%;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width: 128px;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+
+}
+
+
+@media only screen and (max-width:480px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0; width:96%;}
+	.home_content h1{font-size:28px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:19px; width:55%;}
+	ul.social {padding-right:10px;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:22px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:92%; text-align:center;}
+	.logo_in img{width:auto;}
+	.logo_right{margin:0 4%; /*width:70%;*/ width:300px;}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size:22px; /*width:81%;*/ margin-top:0;}
+	p {font-size: 16px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 15px;}
+	.home_bottom_right_in .email_in {font-size:17px; width: 51%;}
+	ul.social_in {float: right; width: 172px;}
+	.bottom_menu1{top:179px;}
+	
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:18px;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .custom-checkbox label{width:90%;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+		
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label{width:100%;}
+	.pataint_profile_dtl label{width:150px; font-size:13px;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:59%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:block;}
+	
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:90%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:20px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:14px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:92%;}
+	.upload_photo{width: 20%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:auto;}
+	.upload_photo .button{width:100%; padding-left:0; font-size:12px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width: 113px;}
+
+}
+
+
+@media only screen and (max-width:440px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0; width:96%;}
+	.home_content h1{font-size:20px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	ul.social {width: 38%;}
+	.emailid_1{ font-size:17px; width: 56%; padding-top:5px;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:22px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:91%; text-align:center;}
+	.logo_in img{width:auto;}
+	.logo_right{margin:0 4%; /*width:78%;*/ width:300px;}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size:22px;/* width: 81%;*/}
+	p {font-size: 16px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 15px;}
+	.home_bottom_right_in .email_in {font-size: 17px; width: 51%;}
+	.menu_in{padding-top:6px;}
+	.bottom_menu1{top:177px;}
+	
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:18px;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+	div#flight_booking_inner ul li div.datebox{width:32.2%; margin-right:5px;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .custom-checkbox label{width: 85%;}
+	.input_styled label{float:left; width:60px;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2 {font-size: 15px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	.pataint_dashboard_left_zone{width:100%;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:90%;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:13px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width:92%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.inline_labels label{width:15%;}
+	#flight_booking_inner .select_style{min-width: 100%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+	
+}
+
+@media only screen and (max-width:400px){
+	.appointment_book {font-size: 20px; /*width: 78%;*/}
+	h1{font-size: 31px;}
+	.menu_in{padding-top: 0;}
+	.bottom_menu1{top:175px;}
+	ul.social {width: 38%;}
+	.emailid_1{ font-size: 15px; width: 56%;}
+	
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:15px;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+
+	div#flight_booking_inner ul li div.datebox{width: 32%; margin-right:0;}
+	.inline_labels label{width:15%;}
+
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:80%; float:none;}
+	.input_styled label{float:left; width:60px;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2 {font-size: 15px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:90%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:13px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+}
+
+@media only screen and (max-width:370px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0;}
+	.home_content h1{font-size:19px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	.emailid_1{font-size:15px; width:52%; padding-top:5px;}
+	ul.social{width: 39%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:18px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:92%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%; /*width:92%;*/}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size: 22px; /*width: 76%;*/}
+	p {font-size: 15px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 14px;}
+	.home_bottom_right_in .email_in {font-size: 15px; width: 49%;}
+	.menu_in{padding-top: 6px;}
+	.bottom_menu1{top:175px;}
+	
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:15px;}
+	.login_box .user_passbox .forgotpass{width:100%; text-align:left; padding-right:0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+
+	div#flight_booking_inner ul li div.datebox{width: 32%; margin-right:0;}
+	.inline_labels label{width:15%;}
+
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:80%; float:none;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:13px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.custom-checkbox .preference{width:89%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:12px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.semitext{text-align:left; margin-top:0;}
+
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+
+	
+
+}
+
+
+@media only screen and (max-width:360px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0;}
+	.home_content h1{font-size:18px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	.emailid_1{font-size: 14px;  width: 46%; padding-top:10px;}
+	ul.social {width:49%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:18px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:92%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%;/* width:90%;*/}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size: 21px;/* width: 78%;*/}
+	p {font-size: 14px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 13px;}
+	.home_bottom_right_in .email_in {font-size: 14px; width: 48%;}
+	.menu_in{padding-top: 0;}
+	.bottom_menu1{top:171px;}
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:15px;}
+	.login_box .user_passbox .forgotpass{width:100%; text-align:left; padding-right:0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+	div#flight_booking_inner ul li div.datebox{width: 33%; margin-right:0;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:80%; float:none;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:13px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:88%;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:12px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+	
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.inline_labels label{width:15%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+
+	
+}
+
+
+@media only screen and (max-width:340px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0;}
+	.home_content h1{font-size:19px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size: 14px; width: 51%; padding-top:10px;}
+	ul.social {padding-right: 4px; width:46%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:18px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:92%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%;/* width:88%;*/}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size: 20px;}
+	p {font-size: 14px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 13px;}
+	.home_bottom_right_in .email_in {font-size: 12px; width: 44%;}
+	.menu_in{padding-top: 0;}
+	.bottom_menu1{top:162px;}
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:15px;}
+	.login_box .user_passbox .forgotpass{width:100%; text-align:left; padding-right:0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width:32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+
+	div#flight_booking_inner ul li div.datebox{width: 32%; margin-right:0;}
+	.inline_labels label{width:15%;}
+
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:80%; float:none;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:13px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:88%;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:12px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+	
+
+
+}
+
+
+@media only screen and (max-width:320px){
+	h1{font-size: 31px;}
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0;}
+	.home_content h1{font-size:16px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size:14px; width: 45%; padding-top:10px;}
+	ul.social {padding-right: 4px; width:49%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:18px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:91%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%;/* width:90%;*/}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:8px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size: 20px;}
+	p {font-size: 14px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 12px;}
+	.home_bottom_right_in .email_in {font-size: 12px; width: 43%;}
+	.menu_in{padding-top: 0;}
+	.bottom_menu1{top:162px;}
+
+	
+	.user_btn a.btn1, .user_btn a.btn2{font-size:15px;}
+	.login_box .user_passbox .forgotpass{width:100%; text-align:left; padding-right:0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 32%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+	div#flight_booking_inner ul li div.datebox{width: 33%; margin-right:0;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:100%; float:none;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:13px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+	
+	.custom-checkbox .preference{width:88%;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:12px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+	.left_zone{width:100%; margin-top:17px; padding-bottom:0;}
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.semitext{text-align:left; margin-top:0;}
+	.inline_labels label{width: 15%;}
+	
+	#calendar{width:100%;}
+	#calendar .fc-day-number{font-size:29px;}
+	#calendar table th.fc-day-header{font-size: 14px;}
+	.fc button{padding:0 0.2em !important;}
+
+
+}
+
+
+/*@media only screen and (max-width:319px){
+	body{background:url(../img/main_bg.png) center top fixed no-repeat #FFF; background-size:cover; background-color:#42d6d8;}	
+	h1{font-size: 31px;}
+	.logo img{width:100%;}
+	.logo{margin:0 2%; width:96%;}
+	.header{padding-top:13px;}
+	.home_content{padding:0 0 14px 0;}
+	.home_content h1{font-size:19px; margin:10px 0;}
+	.home_content p{line-height: 23px; font-size: 14px;}
+	.home_bottom{margin:0; width:100%; position:static;}
+	.home_bottom_left, .home_bottom_right{width:100%;}
+	.home_bottom_right{height:auto; padding-bottom:14px;}
+	.home_bottom_left{height: auto; padding-bottom:12px;}
+	
+	
+	.emailid_1{font-size: 14px; width: 44%; padding-top:10px;}
+	ul.social {padding-right: 4px; width:49%;}
+	.register_login{width:82%;}
+	.book_appointment{font-size:26px; width: 100%;}
+	ul.bottonMenu li a{font-size:18px;}
+	
+	.top_header_in{padding: 10px 0;}
+	.logo_in{margin:0 4%; width:91%; text-align:center;}
+	.logo_in img{width:100%;}
+	.logo_right{margin:0 4%; width:92%;}
+	.login_register{font-size:15px; width:100%; padding-top:2px; text-align:right; margin-bottom:15px;}
+	.top_header_in{padding: 10px 0; width:100%;}
+	.appointment_book {font-size: 20px;}
+	p {font-size: 14px;}
+	ul.listing{margin-left: 6px;}
+	.copyright {font-size: 12px;}
+	.email_in {font-size: 11px; width: 43%;}
+	.menu_in{padding-top: 0;}
+	.bottom_menu1{top:159px;}
+	
+	
+	.login_box .user_passbox .forgotpass{width:100%; text-align:left; padding-right:0;}
+	
+	.register_box label{text-align:left; width:100%; margin-right:0;}
+	div#flight_booking_inner ul li div.selectLeft{width: 67%;}
+	div#flight_booking_inner ul li label{margin-right:0;}
+	.register_box input[type="text"], .register_box input[type="email"], .register_box input[type="password"]{width:97.5%;}
+	div#flight_booking_inner ul li div.datebox{width: 100%; margin-right:0;}
+	.register_box .btnDiv .button1{width:100%;}
+	.register_box .btnDiv{margin:0 auto; width:80%; float:none;}
+	.register_box .user_btn a.btn1, .register_box .user_btn a.btn2{font-size:13px;}
+	.input_styled label{float:left; width:60px;}
+	
+	.profile{width:100%;}
+	
+	.profile_dtl, .pataint_profile_dtl{margin-left:0; width:100%;}
+	.profile_dtl label, .pataint_profile_dtl label{width:100%;}
+	.profile_dtl input[type="text"], .pataint_profile_dtl input[type="text"]{width:97%;}
+	.profile_dtl .hidden, .pataint_profile_dtl .hidden{display:none;}
+	.pataint_dashboard_right_zone{float:right; margin:0 0 15px 0;}
+	
+	.profile_dtl input[type="button"]{margin:15px 0;}
+
+	.login_box .user_passbox input[type="text"], .login_box .user_passbox input[type="password"]{width:98%;}
+
+	.left_zone{width:100%; margin-top:17px; padding-bottom:0;}
+	
+	.custom-checkbox .preference{width:88%;}
+	
+	.dashboard_left_zone, .pataint_dashboard_left_zone{width:100%;}
+	.appointment_today{width:100%;}
+	.appointment_new{float:left; width: 254px; margin:23px 0;}
+	.appointment_chart table th, .appointment_chart table td{font-size:12px;}
+	.dashboard_left_zone .profile_dtl input[type="text"]{width:97%;}
+	.dashboard_left_zone .profile_dtl{width:100%; margin-left:0;}
+	
+	
+	.contct_box{width:90%;}
+	.contct_box input[type="text"], .contct_box textarea{width:98%;}
+	.contct_box label.last{display:none;}
+	
+	.profile_dtl label{text-align:left;}
+	div#flight_booking_inner div.selectLeft{width:36%;}
+	div#flight_booking_inner .selectDiv input[type="text"]{width: 89%;}
+	.upload_photo{width: 100%; margin-bottom:25px;}
+	.upload_photo .profile_pic{width:20%;}
+	.upload_photo .button{width:auto; padding-left:10px;}
+
+	input.button1[type="submit"]{margin-right: 4%; padding: 5px 0; width:47%;}
+	input.button2[type="button"]{padding: 5px 0; width:47%;}
+
+	.semitext{text-align:left; margin-top:0;}
+	.inline_labels label{width: 15%;}
+
+}*/

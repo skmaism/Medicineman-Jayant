@@ -1,0 +1,11 @@
+msgid "Send"
+msgstr "नमस्ते"
+
+msgid "Reply"
+msgstr "Reply1"
+
+msgid "Forward"
+msgstr "Forward1"
+
+msgid "Delete"
+msgstr "Delete1"
